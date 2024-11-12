@@ -1,3 +1,8 @@
+---
+# the default layout is 'page'
+icon: fas fa-fire-circle
+tags: [store, SQL, Contoso]
+---
 ![](/assets/image/florian-olivo-Mf23RF8xArY-unsplash.jpg)
 
 # Retail Industry: Mega Store
@@ -22,8 +27,6 @@ For the purpose of this project, I used 14 tables, each relates to the other(s) 
 
 Entity Relationship Diagram of the original dataset
 
-ALT
-
 I set up SQL Server and used SQL Server Management Studio to write [SQL script](https://gist.github.com/zoetran9/26605eaff3e04132ff22c7d295e6c30c) to explore, wrangle, and manipulate the data. Notably,
 
 I appended the Quadrant column into FactSales table and created a View\_Sales table.
@@ -46,7 +49,7 @@ Instead, I will present key financial metrics I’ve reconciled, and some import
 
 Financial metrics
 ​
-```python
+```text
 Discount% = DiscountAmount /  (UnitPrice * DiscountQuantity)
 Return% = ReturnQuantity / SalesQuantity
 
@@ -70,7 +73,7 @@ Classify products and stores to 4 quadrants based on contribution: continue (hig
 
 Organic Growth (OG): separate organic growth by volume impact (Real Internal Growth RIG) and pricing impact (Pricing), help product and pricing team to plan/execute marketing campaigns including discounts to achieve profitable growth.
 
-```python
+```text
 S - Sales
 V - Volume
 P - Price

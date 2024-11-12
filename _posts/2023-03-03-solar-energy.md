@@ -1,10 +1,11 @@
 ---
 # the default layout is 'page'
-layout: page
+image:
+  path: assets/image/karsten-wurth--tzkyLKPvL4-unsplash.webp
+  alt: 'mega'
 icon: fas fa-sun-circle
 tags: [energy, Power BI, Excel]
 ---
-![](/assets/image/karsten-wurth--tzkyLKPvL4-unsplash.webp)
 
 # Energy Industry: Solar Energy
 

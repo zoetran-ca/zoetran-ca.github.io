@@ -1,9 +1,11 @@
 ---
 # the default layout is 'page'
+image:
+  path: assets/image/photo-1485827404703-89b55fcc595e.jpg
+  alt: 'mega'
 icon: fas fa-book-circle
 tags: [automation, python]
 ---
-![](/assets/image/photo-1485827404703-89b55fcc595e.jpg)
 
 # Automating invoice creation
 

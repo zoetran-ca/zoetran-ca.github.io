@@ -1,10 +1,11 @@
 ---
 # the default layout is 'page'
+image:
+  path: assets/image/melanie-deziel-U33fHryBYBU-unsplash.webp
+  alt: 'mega'
 icon: fas fa-fire-circle
 tags: [Digital Marketing, Google Ads]
 ---
-
-![](/assets/image/melanie-deziel-U33fHryBYBU-unsplash.webp)
 
 # Digital Marketing: Google Ads
 

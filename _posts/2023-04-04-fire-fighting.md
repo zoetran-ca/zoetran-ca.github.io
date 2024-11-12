@@ -1,9 +1,12 @@
 ---
 # the default layout is 'page'
+image:
+  path: assets/image/jake-espedido-ty9Dyq24T7I-unsplash.webp
+  alt: 'mega'
+
 icon: fas fa-fire-circle
 tags: [MongoDB, odbc, PowerBI, python, emergency, fire fighting]
 ---
-![](/assets/image/jake-espedido-ty9Dyq24T7I-unsplash.webp)
 
 # Emergency Response: Fire Fighting
 

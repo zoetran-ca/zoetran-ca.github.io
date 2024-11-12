@@ -36,8 +36,6 @@ gallery:
     title: ""
     description: ""
 ---
-![](/assets/image/florian-olivo-Mf23RF8xArY-unsplash.webp)
-
 # Retail Industry: Mega Store
 
 ## Overview

@@ -4,10 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![](/assets/image/Cat-Lover.webp)
-
-# About 👋
-
 ## Welcome
 
 My name is Diep Tran (Zoe). I love it when I’m able to play with data and see something useful that no one has ever seen before.

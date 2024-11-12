@@ -148,7 +148,7 @@ In-depth analysis employs four-quadrant analysis, organic growth analysis and di
 
 Eyes and narratives follow the flow from KPI display (left) to primary analysis (middle) and secondary analysis (right).
 
-{% include image-gallery.html gallery="megastore" %}
+{% include lightbox-gallery.html gallery="megastore" %}
 
 ## Credits
 

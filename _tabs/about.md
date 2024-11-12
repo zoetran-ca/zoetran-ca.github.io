@@ -20,9 +20,9 @@ I hope you enjoy the projects, and we may even get connected.
 
 Business Intelligence has never been my first choice but I’m excited I got here. Previously, I was trained in political science and worked in several positions from research to operation management.
 
-Three years ago I assisted a five-year research project in data analysis tasks, and found DABI a great fit to me. I enjoy the work of helping organizations leverage software and services to quickly transform data into actionable insights that inform strategic, tactical, and operational decisions, "What it was, what it is, what it will be."
-
 ![](/assets/image/Settings.webp){: .right }
+
+Three years ago I assisted a five-year research project in data analysis tasks, and found DABI a great fit to me. I enjoy the work of helping organizations leverage software and services to quickly transform data into actionable insights that inform strategic, tactical, and operational decisions, "What it was, what it is, what it will be."
 
 I then decided to pivot my career combining business, data, and communication to work in the field of Data Analysis/ Business Intelligence.
 
@@ -46,11 +46,11 @@ Identifying Business Issues and Turning into Analytical Questions: I always try 
 
 **Take ownership**: I care. I take ownership in what I do. I’m committed and deliver quality.
 
+![](/assets/image/Plant-Seed.webp){: .right }
+
 **Effective**: Whenever I can, I automate things. Automation is my friend.
 
 **Technical Sophistication**: I Google and figure things out myself, or ask around for solutions.
-
-![](/assets/image/Plant-Seed.webp){: .right }
 
 **Positive Attitude**: Programming teaches me to break a giant problem into small steps, and tackle them one by one. I’m positive as I know I will get there.
 

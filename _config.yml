@@ -223,3 +223,15 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+carousels:
+  - images: 
+    - image: /assets/image/carousel/megastore/Home.png
+    - image: /assets/image/carousel/megastore/Geo.png
+    - image: /assets/image/carousel/megastore/Product.png
+    - image: /assets/image/carousel/megastore/Store.png
+    - image: /assets/image/carousel/megastore/MFG.png
+    - image: /assets/image/carousel/megastore/Quads.png
+    - image: /assets/image/carousel/megastore/OG.png
+    - image: /assets/image/carousel/megastore/Discount.png
+    - image: /assets/image/carousel/megastore/Details.png

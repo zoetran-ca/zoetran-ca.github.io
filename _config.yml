@@ -223,3 +223,11 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+jekyll-gallery:
+  assets_path: assets/image/gallery
+  collections_dir:
+    megastore: megastore
+
+plugins:
+  - jekyll-gallery-plugin

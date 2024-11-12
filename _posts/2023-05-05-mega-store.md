@@ -2,6 +2,35 @@
 # the default layout is 'page'
 icon: fas fa-fire-circle
 tags: [store, SQL, Contoso]
+gallery:
+  megastore:
+  - file: 01-Home.png
+    title: ""
+    description: ""
+  - file: 02-Geo.png
+    title: ""
+    description: ""
+  - file: 03-Product.png
+    title: ""
+    description: ""
+  - file: 04-Store.png
+    title: ""
+    description: ""
+  - file: 05-MFG.png
+    title: ""
+    description: ""
+  - file: 06-Quads.png
+    title: ""
+    description: ""
+  - file: 07-OG.png
+    title: ""
+    description: ""
+  - file: 08-Discount.png
+    title: ""
+    description: ""
+  - file: 09-Details.png
+    title: ""
+    description: ""
 ---
 ![](/assets/image/florian-olivo-Mf23RF8xArY-unsplash.webp)
 
@@ -119,7 +148,7 @@ In-depth analysis employs four-quadrant analysis, organic growth analysis and di
 
 Eyes and narratives follow the flow from KPI display (left) to primary analysis (middle) and secondary analysis (right).
 
-{% include image-gallery.html folder="/assets/image/carousel/megastore" %}
+{% gallery name='megastore' %}
 
 ## Credits
 

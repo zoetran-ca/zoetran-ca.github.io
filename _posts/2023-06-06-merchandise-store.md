@@ -4,7 +4,7 @@ icon: fas fa-shop-circle
 tags: [merchandise, store, Google Analytics, BigQuery, Tableau]
 ---
 
-![](/assets/image/campaign-creators-yktK2qaiVHI-unsplash.jpg)
+![](/assets/image/campaign-creators-yktK2qaiVHI-unsplash.webp)
 
 # E-commerce: Google Merchandise Store
 

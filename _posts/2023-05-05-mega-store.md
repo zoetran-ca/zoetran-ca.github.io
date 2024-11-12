@@ -3,7 +3,7 @@
 icon: fas fa-fire-circle
 tags: [store, SQL, Contoso]
 ---
-![](/assets/image/florian-olivo-Mf23RF8xArY-unsplash.jpg)
+![](/assets/image/florian-olivo-Mf23RF8xArY-unsplash.webp)
 
 # Retail Industry: Mega Store
 
@@ -111,7 +111,7 @@ Seven filters are hidden under the hamburger menu for space optimization. Clicki
 
 Selected dimensions are presented next to the line **Key KPIs**. For instance, since 2022 is selected, hence Key KPIs of Year=2022.
 
-![](/assets/imageScreenshot_2023-03-17_at_1.43.05_AM.png)
+![](/assets/image/Screenshot_2023-03-17_at_1.43.05_AM.png)
 
 Basic analysis examines three dimensions of a retail operating model: products, people, stores, and a 360 degree view of sales and profit KPIs.
 

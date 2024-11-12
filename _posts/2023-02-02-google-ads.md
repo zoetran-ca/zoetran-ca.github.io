@@ -64,7 +64,7 @@ Dashboard in last 6 months, granularity: month
 
 Technically speaking, this project is only a starting point in bringing Google Ads analysis in-house. The dashboard was created on the fly from several SQL queries to meet the urgent needs of business users. Even though the dashboard will be automatically updated when getting new data, its performance will start to suffer at some point since more data are coming quickly and regularly on a daily basis. As such, the next step is to work on performance tuning from the backend to improve the speed. This task requires a close collaboration between data analysts and data engineers.
 
-Business speaking, monitoring the performance of digital ads is only a part of the story. Businesses need to combine it with data from their websites to get a complete understanding of the attribution model of their businesses. An example of working with Google Analytics to extract website data at a raw, granular level for in-house analysis can be found [here](/575106e9dde9472fba728404af2c6964).
+Business speaking, monitoring the performance of digital ads is only a part of the story. Businesses need to combine it with data from their websites to get a complete understanding of the attribution model of their businesses. An example of working with Google Analytics to extract website data at a raw, granular level for in-house analysis can be found [here](/_posts/2023-06-06-merchandise-store.md).
 
 ## Credits
 

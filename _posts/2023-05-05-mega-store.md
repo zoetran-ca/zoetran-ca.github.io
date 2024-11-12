@@ -9,32 +9,32 @@ tags: [store, SQL, Contoso]
 gallery:
   megastore:
   - file: 01-Home.png
-	title: ""
-	description: ""
+    title: ""
+    description: ""
   - file: 02-Geo.png
-	title: ""
-	description: ""
+    title: ""
+    description: ""
   - file: 03-Product.png
-	title: ""
-	description: ""
+    title: ""
+    description: ""
   - file: 04-Store.png
-	title: ""
-	description: ""
+    title: ""
+    description: ""
   - file: 05-MFG.png
-	title: ""
-	description: ""
+    title: ""
+    description: ""
   - file: 06-Quads.png
-	title: ""
-	description: ""
+    title: ""
+    description: ""
   - file: 07-OG.png
-	title: ""
-	description: ""
+    title: ""
+    description: ""
   - file: 08-Discount.png
-	title: ""
-	description: ""
+    title: ""
+    description: ""
   - file: 09-Details.png
-	title: ""
-	description: ""
+    title: ""
+    description: ""
 ---
 # Retail Industry: Mega Store
 

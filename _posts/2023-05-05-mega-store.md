@@ -1,5 +1,9 @@
 ---
 # the default layout is 'page'
+image:
+  path: assets/image/florian-olivo-Mf23RF8xArY-unsplash.webp
+  alt: 'mega'
+
 icon: fas fa-fire-circle
 tags: [store, SQL, Contoso]
 gallery:

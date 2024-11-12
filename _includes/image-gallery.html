@@ -1,5 +1,7 @@
+<div class="image-gallery">
 {% for item in page.gallery[include.gallery] %}
 <a href="/assets/image/gallery/{{ include.gallery }}/{{ item.file }}" class="glightbox3" data-gallery="{{ include.gallery }}">
     <img src="/assets/image/gallery/{{ include.gallery }}/{{ item.file }}" alt="{{ item.title }}" />
 </a>
 {% endfor %}
+</div>

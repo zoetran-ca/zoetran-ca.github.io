@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![](/image/Cat-Lover.webp)
+![](/assets/image/Cat-Lover.webp)
 
 # About 👋
 
@@ -22,13 +22,13 @@ Business Intelligence has never been my first choice but I’m excited I got her
 
 Three years ago I assisted a five-year research project in data analysis tasks, and found DABI a great fit to me. I enjoy the work of helping organizations leverage software and services to quickly transform data into actionable insights that inform strategic, tactical, and operational decisions, "What it was, what it is, what it will be."
 
-![](/image/Settings.webp){: .right }
+![](/assets/image/Settings.webp){: .right }
 
 I then decided to pivot my career combining business, data, and communication to work in the field of Data Analysis/ Business Intelligence.
 
 ## Skills
 
-![](/image/Examining.webp){: .left }
+![](/assets/image/Examining.webp){: .left }
 
 Identifying Business Issues and Turning into Analytical Questions: I always try to crystallize two things: purposes and context. Why do my clients need what they’re asking me to do? and in what context does the need hold? Once these two questions are set clear, the rest will follow.
 
@@ -50,7 +50,7 @@ Identifying Business Issues and Turning into Analytical Questions: I always try 
 
 **Technical Sophistication**: I Google and figure things out myself, or ask around for solutions.
 
-![](/image/Plant-Seed.webp){: .right }
+![](/assets/image/Plant-Seed.webp){: .right }
 
 **Positive Attitude**: Programming teaches me to break a giant problem into small steps, and tackle them one by one. I’m positive as I know I will get there.
 

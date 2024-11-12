@@ -1,5 +1,6 @@
 ---
 # the default layout is 'page'
+layout: page
 icon: fas fa-sun-circle
 tags: [energy, Power BI, Excel]
 ---

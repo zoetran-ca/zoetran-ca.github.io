@@ -1,5 +1,7 @@
 <div class="lightbox-gallery">
+    {% assign img_class = '' %}
     {% for item in page.gallery[include.gallery] %}
-    <img src="/assets/image/gallery/{{ include.gallery }}/{{ item.file }}" alt="{{ item.title }}" data-gallery="{{ include.gallery }}" />
-{% endfor %}
+    <img class="{{ img_class }}" src="/assets/image/gallery/{{ include.gallery }}/{{ item.file }}" alt="{{ item.title }}" data-gallery="{{ include.gallery }}" />
+    {% assign img_class = 'd-none' %}
+    {% endfor %}
 </div>

@@ -23,6 +23,8 @@ What's more? I put AI into good use. While defining some essential categories li
 
 One of the hurdles was the sheer variety of data. Between us, we have six different accounts across three different banks.If you’ve ever looked at bank statements from different institutions, you know the struggle: one bank calls it "Merchant," another calls it "Description," and a third hides it in a "Memo" field. They all have different CSV layouts and naming conventions. To solve this, I built Account-Specific Transformers. Each account has its own custom function that maps its unique quirks into one single, unified format. This "homogenization" process ensures that no matter where the money comes from, it ends up in a clean, standard table with consistent headers like date, amount, and description.  
 
+Sample data were compiled by a Python-based synthetic data generator to produce realistic transaction datasets that mirror our household’s actual financial patterns.
+
 ### Handling the Nuances: The "Processing" Trap
 
 One challenge I encountered was dealing with transactions that are still "In Processing." If you're like me, I was surprised to learn that many bank statements include these pending items. If I didn't look close enough, I could've easily double or triple counted a transaction, which makes no sense for reporting. My pipeline includes a logic layer to scrub and normalize these transactions, ensuring that only final transactions are included. 
@@ -36,6 +38,10 @@ The final product isn't a complex website; it's a clean, formatted Excel file wi
 1.  **Monthly Category Spending**: A table showing our budget vs. actual spending, including a "% spending ratio" and a trend indicator (Overspent vs. Underspent).
 2.  **Top 5 Non-Recurring Expenditures**: A list of the largest one-off purchases for the month. This helps us quickly identify why a particular month might have felt "expensive."
 3.  **Yearly Financial Summary**: A high-level view of our Net Income, Net Expenditures, and Savings. If a year is still in progress, the system dynamically labels it as "YTD."
+
+---
+
+[Link to project's repo](https://github.com/zoedieptran/household-expenses)
 
 ---
 
